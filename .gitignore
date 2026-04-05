@@ -6,3 +6,4 @@ data/
 .venv/
 .env
 .pytest_cache/
+venv
